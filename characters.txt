@@ -2,3 +2,6 @@ To navigate to your home directory, use "cd" or "cd ~"
 To navigate up one directory level, use "cd .."
 To navigate to the previous directory (or back), use "cd -"
 To navigate into the root directory, use "cd /"
+In order to navigate to a different drive/directory you can 
+do it in convenient way (instead of typing cd /e/Study/Codes), 
+just type in cd[Space], and drag-and-drop your directory Codes
